@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasMPini
 - 👀 I’m interested in programming, electronics, and science. 
-- 🌱 I’m currently learning js, html, css, php, sql
+- 🌱 I’m currently learning JS, html, css, php, sql, mongoDB, R, and Python
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: nicolasmpini@gmail.com
 
